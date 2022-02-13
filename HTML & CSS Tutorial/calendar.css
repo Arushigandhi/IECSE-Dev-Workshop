@@ -62,5 +62,10 @@
   font-size: 50px;
   text-align: center;
   border-radius: 8px;
+  border: none;
 
+}
+
+.operators:last-child{
+  width: 100%;
 }
