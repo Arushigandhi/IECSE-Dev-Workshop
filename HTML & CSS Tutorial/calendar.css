@@ -81,3 +81,8 @@ label{
 .operators:last-child{
   width: 100%;
 }
+
+#operator{
+  color:white;
+  padding-top: 30px;
+}
