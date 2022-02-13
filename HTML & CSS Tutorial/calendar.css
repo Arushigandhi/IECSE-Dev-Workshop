@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 *{
     background-color: black;
 }
@@ -46,6 +48,11 @@
     margin: 20px;
     padding-left: 10px;
 
+}
+
+::placeholder {
+  color: white;
+  font-family: Montserrat;
 }
 
 .operator_container {
