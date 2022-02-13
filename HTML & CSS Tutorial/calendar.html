@@ -11,17 +11,18 @@
     <div class="outer_container">
       <div class="output_container">
         <img src="IECSE_Logo.png" alt="IECSE Logo" class="img_container" />
-        <input type="text" class="text_container" placeholder="Output" />
+        <input type="text" id="output" class="text_container" placeholder="Output" />
       </div>
       <div class="input_container">
-        <input type="text" class="input" placeholder="First Input"/>
-        <input type="text" class="input" placeholder="Second Input" />
+        <input type="text" id="first_input" class="input" placeholder="First Input"/>
+        <div id="operator">+</div>
+        <input type="text" id="second_input" class="input" placeholder="Second Input" />
       </div>
       <div class="operator_container">
-        <button class="operators">+</button>
-        <button class="operators">-</button>
-        <button class="operators">*</button>
-        <button class="operators">/</button>
+        <button id="add" class="operators">+</button>
+        <button id="subtract" class="operators">-</button>
+        <button id="multiply" class="operators">*</button>
+        <button id="divide" class="operators">/</button>
       
       </div>
       <button class="operators">=</button>
