@@ -1,0 +1,80 @@
+:root {
+    --purple: #B30089;
+    --pink: #fd96a9;
+  }
+
+h1{
+    background-color: var(--purple);
+    font-size: 20px;
+    width: 800px;
+}
+
+.first-heading{
+    font-size: 50px;
+}
+
+
+*{
+    background-color: var(--pink);
+}
+
+.box-model{
+    background-color: black;
+    color: white;
+    width: 10%;
+    padding: 20px;
+    border: 10px solid purple;
+    margin: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+
+.first-group a{
+    background-color: #B30089;
+}
+
+.flex-container div{
+    width: 100px;
+    height: 100px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+
+  
+  @media (max-width: 1000px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
+
+  .width-demo{
+      width: 500px;
+      background-color: black;
+      color: white;
+  }
+
+  a:hover{
+      color: green;
+      background-color: transparent;
+  }
+
+  a:active{
+      background-color: aqua;
+  }
+
+  .pseudo-demo:nth-child(2n+1){
+      background-color: #B30089;
+  }
+
+
