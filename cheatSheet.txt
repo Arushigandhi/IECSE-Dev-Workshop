@@ -1,0 +1,190 @@
+
+Javascipt
+
+    Ways to Write JavaScript
+        script tags
+        external script files
+        in browser console
+
+    Data types in JavaScript
+        Number
+        Strings
+        Boolean
+        Undefined - value is not defined
+        Null - non existing
+        Object
+    
+    Declaring Variables
+        -> let,var and const
+        -> Naming Conventions
+    
+    Javascript DataStructures
+        Array
+        Objects
+
+    JavaScript comparisions
+        ==
+        ===
+        !==
+        >=
+        <=
+        >
+        <
+
+    Javascript conditionals
+        if
+        else
+        if else
+        ternary
+        switch
+
+    Javascript logical operators
+        &&
+        ||
+        !
+
+    JavaScript Functions
+        function a() {}
+        let a = function() {}
+        () => {}
+
+    JavaScript Loops
+        for
+        while
+        forEach
+
+    Making a Simple Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOM Manipulation
+
+    Accessing an HTML Element
+        getElementsByTagName
+        getElementById
+        getElementsByClassName
+        querySelector
+        querySelectorAll
+
+    DOM Methods
+        innerHTML
+        Changing html attributes
+        Changing style
+    
+    DOM Events
+        onclick on button
+        oninput on input
+    
+    DOM Event listeners
+        addEventListerner
+        removeEventListener
+    
+    More methods
+        createElement
+        appendChild
+        removeChild
+        setTimeout
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Resources
+    https://www.w3schools.com/js/
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    https://javascript.info/
+    https://codedamn.com/learn/javascript-basics
+
